@@ -1,0 +1,272 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'ko' Physical Memory: 16315 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/DMC CONET/Downloads/Villian.ver6
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49795
+Successfully changed project path to: C:/Users/DMC CONET/Downloads/Villian.ver6
+C:/Users/DMC CONET/Downloads/Villian.ver6
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.97 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.91 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/DMC CONET/Downloads/Villian.ver6/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001723 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.57 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002092 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.55 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in C:\Users\DMC CONET\Downloads\Villian.ver6\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\DMC CONET\Downloads\Villian.ver6\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 1671 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.4 MB.
+System memory in use after: 94.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2153.
+Total: 2.244500 ms (FindLiveObjects: 0.318400 ms CreateObjectMapping: 0.087300 ms MarkObjects: 1.753600 ms  DeleteObjects: 0.084200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/1. Project meshes
+  artifactKey: Guid(f2c457a1eb1c1421a9cfa5f2cb15ed3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/1. Project meshes using Guid(f2c457a1eb1c1421a9cfa5f2cb15ed3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd72e14bf709a298cd2bc04c4c48ccb1f') in 0.008301 seconds
+  Import took 0.010768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_heavy_infinite.prefab
+  artifactKey: Guid(20cf4596ea2bf4515944827937ab1585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_heavy_infinite.prefab using Guid(20cf4596ea2bf4515944827937ab1585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ab761fa1c28db179ef39b1248c22ba') in 0.039269 seconds
+  Import took 0.043006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.553971 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_heavy_no_loop.prefab
+  artifactKey: Guid(5d531e8daa1c847938299e561ddab335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_heavy_no_loop.prefab using Guid(5d531e8daa1c847938299e561ddab335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578267a0548d053ae847772a64ddaa1b') in 0.012191 seconds
+  Import took 0.016636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.015160 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_infinite.prefab
+  artifactKey: Guid(f9d3042601b9a4afcaa25e1eb372b61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_infinite.prefab using Guid(f9d3042601b9a4afcaa25e1eb372b61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e909e41976fefecd86c5fc1bfed893') in 0.010586 seconds
+  Import took 0.015588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.821578 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_no_loop.prefab
+  artifactKey: Guid(03f2c189f344945d5be225431720f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_no_loop.prefab using Guid(03f2c189f344945d5be225431720f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8850808d094b69f2e60c97e23edc20') in 0.010061 seconds
+  Import took 0.015093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009812 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_no_loop.prefab
+  artifactKey: Guid(03f2c189f344945d5be225431720f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Celestial_light_no_loop.prefab using Guid(03f2c189f344945d5be225431720f7df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8850808d094b69f2e60c97e23edc20') in 0.006409 seconds
+  Import took 0.010609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.612543 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_infinite.prefab
+  artifactKey: Guid(8e45f3e26fed54dfca43353ebd5408a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_infinite.prefab using Guid(8e45f3e26fed54dfca43353ebd5408a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18d016e339308f570a650852a7c99e1') in 0.009729 seconds
+  Import took 0.013751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008522 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_infinite.prefab
+  artifactKey: Guid(8e45f3e26fed54dfca43353ebd5408a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_infinite.prefab using Guid(8e45f3e26fed54dfca43353ebd5408a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18d016e339308f570a650852a7c99e1') in 0.006037 seconds
+  Import took 0.009946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.962794 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_no_loop.prefab
+  artifactKey: Guid(33044c9e617644f9b952320a72ca7ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_heavy_no_loop.prefab using Guid(33044c9e617644f9b952320a72ca7ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2575abd6fda3275b50c717215014a924') in 0.010996 seconds
+  Import took 0.014977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.728027 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_light_infinite.prefab
+  artifactKey: Guid(3c54a7814cb94421b9097b1a116d7840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Dark_Magic_light_infinite.prefab using Guid(3c54a7814cb94421b9097b1a116d7840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bc78593936b6a50b651a01d17df5a1') in 0.010149 seconds
+  Import took 0.014381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.009702 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Handpainted_rock.prefab
+  artifactKey: Guid(588495662f6df4b6681a92c2549860d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Handpainted_rock.prefab using Guid(588495662f6df4b6681a92c2549860d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8d317809cae7247f86c467dedfff8d') in 0.056599 seconds
+  Import took 0.059508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.669411 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Hi-Tech_heavy_infinite.prefab
+  artifactKey: Guid(c8888f870fa4b473fb67e7361cbdc39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Hi-Tech_heavy_infinite.prefab using Guid(c8888f870fa4b473fb67e7361cbdc39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169404c539fc897378d31d11b9cd0ba3') in 0.010364 seconds
+  Import took 0.014831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.210389 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Infernal_heavy_infinite.prefab
+  artifactKey: Guid(df2d697bfa54049428817da7f952217e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Infernal_heavy_infinite.prefab using Guid(df2d697bfa54049428817da7f952217e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4e90bcfbfd538f63c3d234af126c77') in 0.010439 seconds
+  Import took 0.014654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.100971 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Infernal_light_infinite.prefab
+  artifactKey: Guid(79c6fdd12cc274d9186015e17d08b6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Infernal_light_infinite.prefab using Guid(79c6fdd12cc274d9186015e17d08b6ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a23f43ab67af4a7ab5dffa5b29190fe1') in 0.010894 seconds
+  Import took 0.015087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.018422 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Sparkles.prefab
+  artifactKey: Guid(0adab61cf7d694c2a91fe1668acad3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Sparkles.prefab using Guid(0adab61cf7d694c2a91fe1668acad3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8edaebefb4b9ff55bdcbc8e47ffd3d6') in 0.006568 seconds
+  Import took 0.009244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Materials/Sparkles.mat
+  artifactKey: Guid(e32d833613bbe43d98c242db0b64fc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Materials/Sparkles.mat using Guid(e32d833613bbe43d98c242db0b64fc2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cad2fefe1697af38ba242912dab760') in 0.039102 seconds
+  Import took 0.041700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.926329 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_light_no_loop.prefab
+  artifactKey: Guid(64d0b8b8d1cc34ce692c6a2b155372a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_light_no_loop.prefab using Guid(64d0b8b8d1cc34ce692c6a2b155372a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '763fbf6b7d3a1f9c64827a447e335e74') in 0.011303 seconds
+  Import took 0.016189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.962309 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_light_infinite.prefab
+  artifactKey: Guid(5f3abe928d8fb49c89ec0cf4bdc1ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_light_infinite.prefab using Guid(5f3abe928d8fb49c89ec0cf4bdc1ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e765bbf4043105621aa319c0bc396b2') in 0.010824 seconds
+  Import took 0.015091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.952748 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_heavy_infinite.prefab
+  artifactKey: Guid(ccf1dcc461e6340c88807bad4a881619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Nature_heavy_infinite.prefab using Guid(ccf1dcc461e6340c88807bad4a881619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66ac77145ff2da29df90b8afdab7be1') in 0.011256 seconds
+  Import took 0.015593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.969511 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Music_light_infinite.prefab
+  artifactKey: Guid(94201c4a555fb4c5a88e41688336b11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Music_light_infinite.prefab using Guid(94201c4a555fb4c5a88e41688336b11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df41314073426b862d89db064083bff8') in 0.010280 seconds
+  Import took 0.014237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.756142 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Music_heavy_infinite.prefab
+  artifactKey: Guid(c0946a53547364c889cd822d4741bd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Music_heavy_infinite.prefab using Guid(c0946a53547364c889cd822d4741bd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9523134ae4d58d90ee880f38d68e989') in 0.010570 seconds
+  Import took 0.014935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.685784 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Magic_light_infinite.prefab
+  artifactKey: Guid(5021fa2d708b24fa6b835ecaf08f4fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Magic_light_infinite.prefab using Guid(5021fa2d708b24fa6b835ecaf08f4fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8b479ea11e36dcd4af5eb4bb8551cd') in 0.009380 seconds
+  Import took 0.013546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.579946 seconds.
+  path: Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Hi-Tech_light_infinite.prefab
+  artifactKey: Guid(17a2fbd8a68c544ebbf38b3979bddc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beautiful Portals VFX/Prefabs/Hi-Tech_light_infinite.prefab using Guid(17a2fbd8a68c544ebbf38b3979bddc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4c5f093255436b715ce2a1ee975910') in 0.010951 seconds
+  Import took 0.015284 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
